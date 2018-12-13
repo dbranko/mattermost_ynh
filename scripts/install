@@ -27,7 +27,7 @@ admin_password=$YNH_APP_ARG_ADMIN_PASSWORD
 admin_locale=$YNH_APP_ARG_ADMIN_LOCALE
 team_display_name=$YNH_APP_ARG_TEAM_DISPLAY_NAME
 analytics=$YNH_APP_ARG_ANALYTICS
-path_url="/"
+path_url="/mattermost"
 
 #=================================================
 # CHECK IF THE APP CAN BE INSTALLED
